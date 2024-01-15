@@ -24,14 +24,18 @@ body {
 	border: none;
 	padding-right: 15px;
 	padding-left: 15px;
-	
 }
-
 .socials button:hover {
 	opacity: 0.3;
 	transform: scale(0.9, 0.9);
 }
-
 .socials button:active {
 	transform: scale(0.8, 0.8);
+}
+
+.github-stats {
+	transition: 500ms;
+}
+.github-stats:hover {
+	filter: invert();
 }
