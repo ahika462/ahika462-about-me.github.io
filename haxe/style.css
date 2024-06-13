@@ -1,0 +1,11 @@
+body {
+	font-family: Montserrat;
+	background-color: rgb(41, 45, 62);
+	text-align: center;
+	overflow-x: hidden;
+}
+
+a {
+	text-decoration: none;
+	font-size: 0px;
+}

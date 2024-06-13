@@ -42,8 +42,9 @@ a {
 
 .home .github-stats {
 	transition: 500ms;
+	border-radius: 10px;
 	&:hover {
-		filter: invert();
+		background-color: #ffffff1c;
 	}
 }
 
